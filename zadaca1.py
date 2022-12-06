@@ -1,1 +1,1 @@
-print('Zdravo na site!')
+('Zdravo na site!')
